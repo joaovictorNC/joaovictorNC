@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning CSS e JavaScript
 - 👯 I’m looking to collaborate on projetos nos quais meus conhecimentos são compativeis
-- 🤔 I’m looking for a primeira oportunidade para entrar no mercado digital 
+- 🤔 I’m looking for a primeira oportunidade para entrar no mercado  
 
 </div>
 <div style="display: inline_block"><br>
