@@ -1,7 +1,7 @@
 ### Hi there eu sou o joãovictorNC 👋
 
 
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning CSS e JavaScript
 - 👯 I’m looking to collaborate on projetos nos quais meus conhecimentos são compativeis
 - 🤔 I’m looking for a primeira oportunidade para entrar no mercado digital 
 
