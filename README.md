@@ -1,16 +1,9 @@
 ### Hi there eu sou o joãovictorNC 👋
 
 
-- 🌱 I’m currently learning CSS e JavaScript
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projetos nos quais meus conhecimentos são compativeis
 - 🤔 I’m looking for a primeira oportunidade para entrar no mercado  
-
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
  
  ##
  
